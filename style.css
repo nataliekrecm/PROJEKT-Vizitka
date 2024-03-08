@@ -21,6 +21,19 @@ body {
     font-style: normal;
 }
 
+.profilepic {
+    position: absolute;
+    left: 475px;
+    top: -75px;
+    width: 150px;
+    height: 150px;
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 50%;
+    box-shadow: 3px 3px 3px lightslategrey;
+}
+
 .vizitka {
     width: 550px;
     background-color: white;
